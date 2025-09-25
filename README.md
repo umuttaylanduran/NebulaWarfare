@@ -21,3 +21,4 @@ Nebula Warfare is a 2D space shooter game developed with Unity. The goal is to d
 📌 Note
 
 * This project was developed earlier and is now being shared on GitHub.
+* You can play the game on my Itch.io page : https://umuttaylanduran.itch.io/nebula-warfare
